@@ -1,0 +1,7 @@
+spring:
+  main.banner-mode: off
+  data:
+    mongodb:
+      uri: mongodb://admin:admin@localhost:27017/db
+
+de.flapdoodle.mongodb.embedded.version: 4.0.25
